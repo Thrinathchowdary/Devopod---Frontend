@@ -1,0 +1,12 @@
+/* Aliases for other pages */
+.invoice-container {
+  /* inherits from .finance-container styles */
+}
+
+.users-container {
+  /* inherits from .finance-container styles */
+}
+
+.audit-container {
+  /* inherits from .finance-container styles */
+}
